@@ -1,0 +1,15 @@
+/* Escribe aqui tu CSS */
+.código{
+	width: 200px;
+	border: 10px solid yellow;
+	padding: 40px;
+	text-align:center;
+}
+
+.programación{
+	width: 200px;
+	border: 10px solid yellow;
+	padding: 40px;
+	text-align:left;
+	margin: auto;
+}
